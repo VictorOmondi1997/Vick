@@ -1,11 +1,11 @@
 
 CREDITS
 
-Pipeline HTML CSS Template
-http://www.templatemo.com/tm-498-stimulus
+Victor HTML CSS Template
+http://victoromondi.blogspot.co.ke
 
 Bootstrap
 http://getbootstrap.com/
 
 Images
-http://startupstockphotos.com/
+pyconke.co.ke
