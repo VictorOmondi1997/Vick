@@ -34,13 +34,13 @@ h1,h2,h3 {
 h1 {
   font-size: 42px;
   padding-bottom: 14px;
-  margin-bottom: 0px;
+  margin-bottom: 0;
 }
 
 h2 {
   font-size: 42px;
   line-height: 52px;
-  margin-top: 0px;
+  margin-top: 0;
 }
 
 h3 {
@@ -255,7 +255,7 @@ a:hover, a:active, a:focus {
   animation: spinner .6s linear infinite;
 }
 
-@-webkit-@keyframes spinner {
+-webkit-@keyframes spinner {
   to {transform: rotate(360deg);}
 }
 
@@ -330,7 +330,7 @@ a:hover, a:active, a:focus {
     }
     .custom-navbar.top-nav-collapse {
         background: #ffffff;
-        box-shadow: 0px 2px 8px 0px rgba(50, 50, 50, 0.08);
+        box-shadow: 0 2px 8px 0 rgba(50, 50, 50, 0.08);
         padding: 0;
     }
 
@@ -354,10 +354,9 @@ a:hover, a:active, a:focus {
 }
 
 #home .home-img {
-  background: url('../images/home-img.jpg') no-repeat;
-  background-size: cover;
-  background-position: 50% 50%;
-  width: 100%;
+    background-size: cover;
+    background: url('../images/home-img.jpg') no-repeat 50% 50%;
+    width: 100%;
   height: 100vh;
 }
 
@@ -391,7 +390,7 @@ a:hover, a:active, a:focus {
 
 #about .progress {
   background: #ffffff;
-  border-radius: 0px;
+  border-radius: 0;
   box-shadow: none;
   height: 2px;
 }
@@ -442,7 +441,7 @@ a:hover, a:active, a:focus {
 }
 
 #experience .media-heading {
-  margin-bottom: 0px;
+  margin-bottom: 0;
 }
 
 #experience .media .fa {
@@ -468,7 +467,7 @@ a:hover, a:active, a:focus {
 }
 
 #education .media-heading {
-  margin-bottom: 0px;
+  margin-bottom: 0;
 }
 
 #education .media .fa {
@@ -488,12 +487,11 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 #quotes {
-    background: url('../images/quotes-bg.jpg') 50% 0 repeat-y fixed;
     background-size: cover;
-    background-position: center center;
+    background: url('../images/quotes-bg.jpg') repeat-y fixed center center;
     color: #ffffff;
     position: relative;
-    padding: 100px 0px;
+    padding: 100px 0;
 }
 
 #quotes .overlay {
@@ -548,7 +546,7 @@ a:hover, a:active, a:focus {
   background: transparent;
   border: none;
   border-bottom: 1px solid #E3AE57;
-  border-radius: 0px;
+  border-radius: 0;
   box-shadow: none;
   color: #ffffff;
   font-size: 18px;
@@ -590,7 +588,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 footer {
-    padding: 140px 0px;
+    padding: 140px 0;
 }
 
 
