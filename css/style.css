@@ -5,7 +5,7 @@ The following property is Owned by Victor Omondi, Acknowledge my work.
 */
 
 body {
-	background: #ffffff;
+	background: #afd9ee;
     font-family: 'Source Sans Pro', sans-serif;
     font-style: normal;
 	font-weight: 300;
@@ -19,7 +19,7 @@ html,body {
 
 
 /*---------------------------------------
-    Typorgraphy              
+    Typography
 -----------------------------------------*/
 
 h1,h2,h3,h4,h5,h6 {
@@ -32,7 +32,7 @@ h1,h2,h3 {
 }
 
 h1 {
-  font-size: 42px;
+  font-size: 48px;
   padding-bottom: 14px;
   margin-bottom: 0;
 }
@@ -72,7 +72,7 @@ p {
     font-size: 16px;
     font-weight: 300;
     line-height: 28px;
-    letter-spacing: 0.2px;
+    letter-spacing: 0;
 }
 
 .section-btn {
@@ -82,7 +82,7 @@ p {
   color: #232B2B;
   font-size: 13px;
   font-weight: bold;
-  letter-spacing: 1.6px;
+  letter-spacing: 2px;
   padding: 12px 36px;
   margin-top: 42px;
   transition: all 0.4s ease-in-out;
@@ -256,11 +256,15 @@ a:hover, a:active, a:focus {
 }
 
 -webkit-@keyframes spinner {
-  to {transform: rotate(360deg);}
+  to {
+      transform: rotate(360deg);
+  }
 }
 
 @keyframes spinner {
-  to {transform: rotate(360deg);}
+  to {
+      transform: rotate(360deg);
+  }
 }
 
 
@@ -347,10 +351,9 @@ a:hover, a:active, a:focus {
 }
 
 #home .col-md-6 {
-  background: #f1e2d7;
-/* light blue color: #c3eafd; */
-  padding-right: 0;
-  padding-left: 0;
+    background: #f1e2d7;
+    padding-right: 0;
+    padding-left: 0;
 }
 
 #home .home-img {
@@ -437,7 +440,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 #experience .experience-img {
-  background: url('../images/experience-img.jpg') no-repeat;
+    background: url('../images/experience-img.jpg') no-repeat;
 }
 
 #experience .media-heading {
@@ -538,9 +541,16 @@ a:hover, a:active, a:focus {
   padding-bottom: 6px;
 }
 
-#contact .form-control::-moz-placeholder{color:#ffffff;opacity:1}
-#contact .form-control:-ms-input-placeholder{color:#ffffff}
-#contact .form-control::-webkit-input-placeholder{color:#ffffff}
+#contact .form-control::-moz-placeholder{
+    color:#ffffff;
+    opacity:1
+}
+#contact .form-control:-ms-input-placeholder{
+    color:#ffffff
+}
+#contact .form-control::-webkit-input-placeholder{
+    color:#ffffff
+}
 
 #contact .form-control {
   background: transparent;

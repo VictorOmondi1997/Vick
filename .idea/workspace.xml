@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d79ccb6c-003a-48cb-b886-a7899faa650f" name="Default Changelist" comment="Resolved some Warnings">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/user.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/html/firstBootstratpPage.html" afterDir="false" />
+    <list default="true" id="d79ccb6c-003a-48cb-b886-a7899faa650f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/templatemo-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -17,22 +15,25 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Vick" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="127">
-              <caret line="316" column="50" selection-start-line="316" selection-start-column="50" selection-end-line="316" selection-end-column="50" />
+            <state relative-caret-position="2101">
+              <caret line="282" lean-forward="true" selection-start-line="282" selection-end-line="282" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/html/firstBootstratpPage.html">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+            <state relative-caret-position="-2225">
+              <caret line="552" selection-start-line="552" selection-end-line="552" />
             </state>
           </provider>
         </entry>
@@ -56,13 +57,15 @@
         <option value="$PROJECT_DIR$/css/templatemo-style.css" />
         <option value="$PROJECT_DIR$/html/firstBootstratpPage.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="676" />
-    <option name="width" value="697" />
-    <option name="height" value="775" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="784" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -81,7 +84,7 @@
             <path>
               <item name="Vick" type="b2602c69:ProjectViewProjectNode" />
               <item name="Vick" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -106,6 +109,9 @@
       </list>
     </option>
   </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",HTML5_OUTLINE_MODE" />
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -118,7 +124,7 @@
       <updated>1547975752999</updated>
       <workItem from="1547975766501" duration="1718000" />
       <workItem from="1552682466429" duration="3879000" />
-      <workItem from="1552757084015" duration="562000" />
+      <workItem from="1552757084015" duration="2268000" />
     </task>
     <task id="LOCAL-00001" summary="Removed &quot;Unit of measure 'px' is redundant&quot; at line 591 templatemo-style.css">
       <created>1552684363827</created>
@@ -127,31 +133,48 @@
       <option name="project" value="LOCAL" />
       <updated>1552684363827</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Resolved Anchor to form">
+      <created>1552757670889</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1552757670890</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6159000" />
+    <option name="totallyTimeSpent" value="7865000" />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+      <is-preview-enabled value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="676" y="0" width="697" height="775" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.49620637" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24330357" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.24886191" />
+      <window_info id="Favorites" order="2" side_tool="true" weight="0.32928678" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49924126" weight="0.32956383" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32956383" />
       <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Messages" order="11" visible="true" weight="0.30371568" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007587" side_tool="true" weight="0.32956383" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49924126" weight="0.30371568" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -163,13 +186,40 @@
   <component name="UpdateCopyrightCheckinHandler">
     <option name="UPDATE_COPYRIGHT" value="true" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Few changes to make app more productive." />
     <MESSAGE value="Removed &quot;Unit of measure 'px' is redundant&quot;" />
     <MESSAGE value="Removed &quot;Unit of measure 'px' is redundant&quot; at line 591 templatemo-style.css" />
     <MESSAGE value="Removed &quot;Unit of measure 'px' is redundant&quot; at line 591 templatemo-style.css&#10;Added Omondi to ProjectDictionaryState" />
     <MESSAGE value="Resolved some Warnings" />
-    <option name="LAST_COMMIT_MESSAGE" value="Resolved some Warnings" />
+    <MESSAGE value="Resolved Anchor to form" />
+    <option name="LAST_COMMIT_MESSAGE" value="Resolved Anchor to form" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/js/wow.min.js">
@@ -219,24 +269,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
+    <entry file="file://$PROJECT_DIR$/html/firstBootstratpPage.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9057">
-          <caret line="593" lean-forward="true" selection-start-line="593" selection-end-line="593" />
+        <state relative-caret-position="170">
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="316" column="50" selection-start-line="316" selection-start-column="50" selection-end-line="316" selection-end-column="50" />
+        <state relative-caret-position="2101">
+          <caret line="282" lean-forward="true" selection-start-line="282" selection-end-line="282" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html/firstBootstratpPage.html">
+    <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+        <state relative-caret-position="-2225">
+          <caret line="552" selection-start-line="552" selection-end-line="552" />
         </state>
       </provider>
     </entry>
