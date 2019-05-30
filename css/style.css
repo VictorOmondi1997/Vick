@@ -5,7 +5,7 @@ The following property is Owned by Victor Omondi, Acknowledge my work.
 */
 
 body {
-	background: #afd9ee;
+	/*background: #444444;*/
     font-family: 'Source Sans Pro', sans-serif;
     font-style: normal;
 	font-weight: 300;
@@ -77,7 +77,7 @@ p {
 
 .section-btn {
   background-color: transparent;
-  border: 3px solid #232B2B;
+  border: 3px solid #E3AE57;
   border-radius: 100px;
   color: #232B2B;
   font-size: 13px;
@@ -90,7 +90,7 @@ p {
 }
 
 .section-btn:hover {
-  background: #E3AE57;
+  background: #0093e7;
   border-color: transparent;
   color: #ffffff;
 }
@@ -189,14 +189,14 @@ html{
 }
 
 a {
-  color: #E3AE57;
+  color: #0093e7;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
   text-decoration: none !important;
 }
 a:hover, a:active, a:focus {
-  color: #E3AE57;
+  color: #0093e7;
   outline: none;
 }
 
@@ -273,14 +273,17 @@ a:hover, a:active, a:focus {
     Navigation section              
 -----------------------------------------*/
 
+.navbar{
+    background-color: #0093e7 !important;
+}
 .custom-navbar {
     margin-bottom: 0;
-    background-color: #ffffff;
+    background-color: #0093e7;
 }
 
 .custom-navbar .navbar-brand {
     color: #333;
-	text-shadow: 1px 1px #fff;
+	text-shadow: 1px 1px #00ffff;
     font-weight: bold;
     font-size: 24px;
     line-height: 35px;
@@ -288,7 +291,7 @@ a:hover, a:active, a:focus {
 }
 
 .custom-navbar .nav li a {
-    color: #666;
+    color: #ffffff;
     font-size: 14px;
     font-weight: 400;
     letter-spacing: 1px;
@@ -299,7 +302,7 @@ a:hover, a:active, a:focus {
 
 .custom-navbar .nav li a:hover {
     background: transparent;
-    color: #E3AE57;
+    color: #000000;
 }
 
 .custom-navbar .navbar-nav > li > a:hover,
@@ -309,7 +312,8 @@ a:hover, a:active, a:focus {
 
 .custom-navbar .nav li.active > a {
     background-color: transparent;
-    color: #E3AE57;
+    color: #f5f5f5;
+    font-weight: bold;
 }
 
 .custom-navbar .navbar-toggle {
@@ -322,7 +326,7 @@ a:hover, a:active, a:focus {
 }
 
 .custom-navbar .navbar-toggle .icon-bar {
-    background: #E3AE57;
+    background: #ffffff;
     border-color: transparent;
 }
 
@@ -333,7 +337,7 @@ a:hover, a:active, a:focus {
         background: 0 0; 
     }
     .custom-navbar.top-nav-collapse {
-        background: #ffffff;
+        background: #0093e7;
         box-shadow: 0 2px 8px 0 rgba(50, 50, 50, 0.08);
         padding: 0;
     }
@@ -351,21 +355,21 @@ a:hover, a:active, a:focus {
 }
 
 #home .col-md-6 {
-    background: #f1e2d7;
+    /*background: linear-gradient(rgba(255, 250, 250, 0.5), rgba(255, 250, 255, 0.5));*/
     padding-right: 0;
     padding-left: 0;
 }
 
 #home .home-img {
     background-size: cover;
-    background: url('../images/home-img.jpg') no-repeat 50% 50%;
+    background: url('../images/home-img.png') no-repeat 50% 50%;
     width: 100%;
-  height: 100vh;
+    height: 100vh;
 }
 
 #home .home-thumb {
-  display: -webkit-box;
-  display: -webkit-flex;
+    display: -webkit-box;
+    display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
   -webkit-box-align: center;
@@ -532,7 +536,7 @@ a:hover, a:active, a:focus {
 }
 
 #contact .contact-img {
-  background: url('../images/contact-img.jpg') no-repeat;
+  background: url('../images/contact-img.png') no-repeat;
   min-height: 75vh;
 }
 
@@ -621,7 +625,7 @@ footer {
 
 .social-icon li a {
     border: 2px solid transparent;
-    color: #999;
+    color: #0093e7;
     border-radius: 100px;
     cursor: pointer;
     font-size: 16px;
@@ -637,7 +641,7 @@ footer {
 }
 
 .social-icon li a:hover {
-    background: #E3AE57;
+    background: #0093e7;
     border-color: #ffffff;
     color: #ffffff;
     transform: scale(1.1);
