@@ -495,7 +495,7 @@ a:hover, a:active, a:focus {
 
 #quotes {
     background-size: cover;
-    background: url('../images/quotes-bg.jpg') repeat-y fixed center center;
+    background: url('https://lh3.googleusercontent.com/lsvcDphGZ4eBAadM7nijpsDJSCrt96ddBVujUo8LGXPYZTj6n7woyOAjaob6V5QhK-U7xvZu4yDw67rUqoKlDxMTgtcPTAUDlEENmCAwLsUoL5kIIe-x9nEERqUKMr7_MyT2WKn7-D5vN0OV61-cP3HRjNxM0oElOFIQhZh4ZSsY8BTWV13RNQR3vTIddetz3IuDuWKSQ3J4lYE7lUrrhLtvoLDOyFGI3sFnYp_kKs7V6ZCfFaQCpn2Yi8QFyFXWqCUiLSAo2gXPf7JaRDfq-GOn6waU4_n6YYxemh33i-NhsLWAro37514510ddQhCQg-v7kl9jwtiXqUGy6TpzCXBR_3p4X4dfu596wi6R_moj95ToqHHMHBymOnjWPVjwosqC0Gh1K_xBPW2s4QVk_ELf_HVyyQRyJ3qPIvo1XxU8CU_wX1vlCpqMsIYbkfBICzdPSlUZ7wc4jnIpqzUMxFrhCAX9JQ2p8WJAJpqaBHyLXB0S8CRN3dB_wMvQrC2nE09DIja7R_HdU8KuiqEtH2Lazydn-zlrt27he_6M0sjPMHY8C-LFLqvAiZy-z42tpa1-s7TvrvKm_Kn3yXk4-Ala001fS8Z9zu-4JF4CYirwri_zCpZyHEXwfTiXYOUtJb1iO6ghhWkxA-hepUJmiqUdKWCJVt0H=w993-h662-no') repeat-y fixed center center;
     color: #ffffff;
     position: relative;
     padding: 100px 0;
