@@ -1,6 +1,6 @@
 # Vick
 
-![Website](https://img.shields.io/website/https/victoromondi1997.ml?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online)
+![Website](https://img.shields.io/website/https/victoromondi1997.ml?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online) ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/VictorOmondi1997/Vick)
 
 This is my first responsive **Website**, implemented using Bootstrap
 
