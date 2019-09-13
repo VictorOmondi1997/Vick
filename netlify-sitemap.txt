@@ -7,3 +7,5 @@ http://victoromondi1997.netlify.com/index.html
 http://victoromondi1997.netlify.com/404.html
 victoromondi1997.netlify.com/index.html
 victoromondi1997.netlify.com/404.html
+victoromondi1997.ml
+https://victoromondi1997.ml
